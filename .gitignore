@@ -131,6 +131,7 @@ include/
 bin/
 etc/
 share/
+pyenv.cfg
 
 # Spyder project settings
 .spyderproject
