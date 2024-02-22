@@ -1,0 +1,20 @@
+Battle Round Phase,Action One,Action Two,Action Three
+Command Phase,Issue order to the most capable unit,Prepare units for the next phase,Reorganize for better positioning
+Command Phase,Activate any unit-specific abilities,Evaluate strategic objectives,Strengthen defensive positions
+Command Phase,Prioritize unit actions based on enemy positioning,Boost unit morale for upcoming engagements,Adjust tactics based on battlefield developments
+Command Phase,Deploy reserves if applicable,Issue commands to key units,Optimize unit formations for combat efficiency
+Command Phase,Utilize command abilities to enhance unit performance,Prepare for enemy counter-moves,Secure or contest objectives
+Movement Phase,Advance towards the nearest enemy unit,Position for strategic advantage,Reposition to avoid enemy fire
+Movement Phase,Execute flanking maneuver on vulnerable enemy,Secure key terrain or objective,Conduct tactical withdrawal if outmatched
+Movement Phase,Deploy or move units to reinforce weak points,Maximize unit coherency and effectiveness,Prepare for assault or defensive stance
+Movement Phase,Utilize high mobility units to pressure enemy flanks,Adjust unit positions for upcoming psychic or shooting phase,Maintain distance from enemy units while moving towards objectives
+Psychic Phase,Cast offensive psychic power against nearest enemy unit,Fortify defenses with psychic abilities,Disrupt enemy plans with psychic interference
+Psychic Phase,Enhance unit abilities or restore wounds psychically,Attempt to deny the witch if within range,Utilize psychic powers to manipulate battlefield conditions
+Shooting Phase,Focus fire on the most immediate threat,Eliminate enemy units on objectives,Support advancing units with covering fire
+Shooting Phase,Target enemy units with high firepower,Conserve ammo on precision strikes,Suppress enemy movements with strategic shooting
+Charge Phase,Charge nearest enemy unit with melee-focused units,Use charge to disrupt enemy lines,Coordinate multi-unit charges for maximum impact
+Charge Phase,Prioritize charges against weakened enemy units,Secure objectives with aggressive maneuvers,Protect key units from counter-charges
+Fight Phase,Engage with the unit having the highest combat potential,Target enemy units with critical battlefield roles,Utilize special weapons or abilities for maximum damage
+Fight Phase,Concentrate attacks to break enemy morale,Support engaged units by targeting their opponents,Exploit enemy vulnerabilities in melee
+Morale Phase,Automatically pass morale for the unit under the most pressure,Rally units to prevent routing,Utilize leadership abilities to bolster morale
+Morale Phase,Assess and mitigate potential morale failures,Prioritize morale for units in critical battlefield positions,Reorganize or fallback with units at risk of breaking
