@@ -129,6 +129,8 @@ env.bak/
 venv.bak/
 include/
 bin/
+etc/
+share/
 
 # Spyder project settings
 .spyderproject
